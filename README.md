@@ -49,9 +49,13 @@ data available through the [SSP database](https://secure.iiasa.ac.at/web-apps/en
 
 ### Links to available data:
 [SSP1](./data/ssp1.csv)
+
 [SSP2](./data/ssp2.csv)
+
 [SSP3](./data/ssp3.csv)
+
 [SSP4](./data/ssp4.csv)
+
 [SSP5](./data/ssp5.csv)
 
 ### Contacts
