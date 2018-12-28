@@ -42,10 +42,12 @@ interested researchers for scenario analysis and comparison. Please cite the fol
 Note that the scenario data provided for use in CMIP6 is not exactly the same as the
 original GCAM model results provided here. The CMIP6 data has undergone additional
 processing to first harmonize emissions and land-use to the historical data used in CMIP6,
-which are then mapped to spatial grids (Gidden et al. submitted). Gridded emission and
-land-use data have been made available through 
-[ESGF](https://esgf-node.llnl.gov/projects/input4mips/), with additional information and 
-data available through the [SSP database](https://secure.iiasa.ac.at/web-apps/ene/SspDb/dsd?Action=htmlpage&page=about).
+which are then mapped to spatial grids [(Gidden et al.
+submitted)](https://www.geosci-model-dev-discuss.net/gmd-2018-266/). Gridded emission and
+land-use data have been made available through
+[ESGF](https://esgf-node.llnl.gov/projects/input4mips/), with additional information and
+data available through the [SSP
+database](https://secure.iiasa.ac.at/web-apps/ene/SspDb/dsd?Action=htmlpage&page=about).
 
 ### Links to available data:
 [SSP1](./data/ssp1.csv)
@@ -145,7 +147,15 @@ Edmonds, S. Hallegatte, T. Kram, R. Mathur and H. Winkler (2014). "A new scenari
 framework for Climate Change Research: scenario matrix architecture." Climatic Change
 122(3): 373-386.
 
-#### CMIP6 Planning Papers
+#### CMIP6-related Papers
+Gidden, M. J., Riahi, K., Smith, S. J., Fujimori, S., Luderer, G., Kriegler, E., van
+Vuuren, D. P., van den Berg, M., Feng, L., Klein, D., Calvin, K., Doelman, J. C., Frank,
+S., Fricko, O., Harmsen, M., Hasegawa, T., Havlik, P., Hilaire, J., Hoesly, R., Horing,
+J., Popp, A., Stehfest, E., and Takahashi, K.: Global emissions pathways under different
+socioeconomic scenarios for use in CMIP6: a dataset of harmonized emissions trajectories
+through the end of the century, Geosci. Model Dev. Discuss.,
+https://doi.org/10.5194/gmd-2018-266, in review, 2018. 
+
 O'Neill, B. C., Tebaldi, C., van Vuuren, D. P., Eyring, V., Friedlingstein, P., Hurtt, G.,
 Knutti, R., Kriegler, E., Lamarque, J.-F., Lowe, J., Meehl, G. A., Moss, R., Riahi, K.,
 and Sanderson, B. M.: The Scenario Model Intercomparison Project (ScenarioMIP) for CMIP6,
