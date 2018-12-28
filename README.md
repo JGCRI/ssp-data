@@ -22,8 +22,6 @@ identified as the “marker” for each SSP. GCAM was the marker model for the S
 models, and models providing additional scenario quantifications, for all SSPs are listed
 in the Table below.
 
-| Identifier | Descriptor | 
-
 | Identifier	| Descriptor	| Marker model (institution)	| Also quantified by |
 | --- | --- | --- | --- |
 | SSP1	| Sustainability	| IMAGE-MAGNET (PBL, LEI)	| All |
@@ -50,6 +48,11 @@ land-use data have been made available through
 data available through the [SSP database](https://secure.iiasa.ac.at/web-apps/ene/SspDb/dsd?Action=htmlpage&page=about).
 
 ### Links to available data:
+[SSP1](./data/ssp1.csv)
+[SSP2](./data/ssp2.csv)
+[SSP3](./data/ssp3.csv)
+[SSP4](./data/ssp4.csv)
+[SSP5](./data/ssp5.csv)
 
 ### Contacts
 Kate Calvin
